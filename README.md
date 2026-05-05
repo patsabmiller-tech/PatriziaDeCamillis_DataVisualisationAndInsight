@@ -4,15 +4,15 @@ This project is a Python-based data visualisation and analysis application using
 ________________________________________
 Project Structure
 project/
-│
-├── PatriziaDeCamillis_DataVis.ipynb
-├── app.py
-├── shared.py
-├── listings.csv
-├── reviews.csv
-├── weekly_reviews.csv
-├── requirements.txt
-└── README.md
+
+PatriziaDeCamillis_DataVis.ipynb
+app.py
+shared.py
+listings.csv
+reviews.csv
+weekly_reviews.csv
+requirements.txt
+README.md
 ________________________________________
 Data Source
 The data used in this project comes from Inside Airbnb:
